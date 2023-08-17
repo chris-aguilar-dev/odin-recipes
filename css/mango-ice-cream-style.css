@@ -5,3 +5,57 @@
     margin: 0;
     padding: 0;
 }
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: darkred;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 60px;
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-size: 45px;
+    margin: 20px 0;
+}
+
+h3 {
+    font-size: 32px;
+    margin: 25px 0;
+}
+
+p {
+    font-size: 24px;
+    color: white;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+li {
+    color: white;
+}
+
+a {
+    color: white;
+    padding-top: 20px;
+}
+
+a:hover {
+    color: magenta;
+}
