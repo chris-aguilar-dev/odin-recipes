@@ -1,1 +1,2 @@
 # odin-recipes
+My name is Chris Aguilar and this is my attempt at The Odin Project Recipe Project. I hope to be able to refresh my html skills and be able to make a functional recipe that incorporates images, lists, diffrent headers. Goal would be to have it completed within the day.
